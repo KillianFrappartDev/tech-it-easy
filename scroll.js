@@ -7,7 +7,7 @@ class Article {
   template;
 
   constructor(url) {
-    this.imageUrl = `../assets/article-${url}.jpg`;
+    this.imageUrl = `article-${url}.jpg`;
     this.template = `  
     <div>
         <div class="main__wrapper">

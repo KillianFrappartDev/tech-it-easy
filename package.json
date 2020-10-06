@@ -1,0 +1,20 @@
+{
+  "name": "tech-it-easy",
+  "version": "1.0.0",
+  "description": "----- Charte graphique",
+  "main": "article.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillianFrappartDev/tech-it-easy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KillianFrappartDev/tech-it-easy/issues"
+  },
+  "homepage": "https://github.com/KillianFrappartDev/tech-it-easy#readme"
+}
