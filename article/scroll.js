@@ -46,7 +46,7 @@ class Article {
           </li>
         </ul>
       </div>
-        <div>
+        <div class="form">
           <form>
               <div class="form__container">
                 <h2 class="h2__color">Subscribe to our Newsletter</h2>
